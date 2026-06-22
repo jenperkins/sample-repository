@@ -25,6 +25,7 @@
 
 **Course Banner Image**
 
+![diataxis](../ditataxisinfographic.jpg)
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
 │  Network     │                                                           │
