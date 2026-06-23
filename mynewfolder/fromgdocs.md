@@ -2,16 +2,16 @@
 
 dsfasdfasdfa
 
-## Heading 1: Example
+## Example Heading
 
 Yada, yada, yada
 adsadsa
 adadsasdfasdfasdfas
 
-## Heading 1: yada
+### Example Subheading
 
 adfadfasdfasd
 
-### dsfadsafdsas
+## Another Example Heading
 
-dasfdasdfa
+yada
