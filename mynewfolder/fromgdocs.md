@@ -2,16 +2,16 @@
 
 dsfasdfasdfa
 
-## Example Heading
+## Example Instruction Content Block
 
 Yada, yada, yada
 adsadsa
 adadsasdfasdfasdfas
 
-### Example Subheading
+### Example Knowledge Check
 
 adfadfasdfasd
 
-## Another Example Heading
+## Another Example Content Block
 
 yada
